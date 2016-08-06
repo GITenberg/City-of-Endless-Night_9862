@@ -1,0 +1,42 @@
+_repo: City-of-Endless-Night_9862
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hastings, Milo
+    aliases:
+    - Spain, Dan
+    - Hastings, Milo Milton
+    - Hastings, Milo M. (Milo Milton)
+    birthdate: 1884
+    deathdate: 1957
+    gutenberg_agent_id: '4956'
+    url: http://www.gutenberg.org/2009/agents/4956
+    wikipedia: http://en.wikipedia.org/wiki/Milo_Hastings
+description: <P><B>A fascinating and disturbing dystopian vision from a neglected
+  sci-fi master, imagining an all too terrifying alternate ending to World War I and
+  its implications for the human race</B></P> <p>The year is 2041. Since the end of
+  WWI, Berlin has been an enormous subterranean city, home to 300 million citizens
+  who have never seen the sun, and presided over by the autocratic Hohenzollern dynasty.
+  Every aspect of life is regimented; from controlled rations that are issued on the
+  basis of work-for-food, to a press that works exclusively under the auspices of
+  the Information Service. Christianity has been abolished and all breeding is carried
+  out on the basis of strict eugenic principles. Lyman De Forrest, an American chemist,
+  discovers a way of neutralizing Berlin's defenses and, assuming the identity of
+  a dead German man, enters the city to discover its hidden truths. The first outsider
+  for decades to enter the forbidden metropolis, he is horrified to find a society
+  where women...
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9862'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- GITenberg
+title: City of Endless Night
+url: http://www.gutenberg.org/ebooks/9862
