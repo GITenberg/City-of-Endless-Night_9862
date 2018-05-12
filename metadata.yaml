@@ -1,5 +1,8 @@
 _repo: City-of-Endless-Night_9862
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hastings, Milo
@@ -25,6 +28,8 @@ description: <P><B>A fascinating and disturbing dystopian vision from a neglecte
   a dead German man, enters the city to discover its hidden truths. The first outsider
   for decades to enter the forbidden metropolis, he is horrified to find a society
   where women...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9862#City-of-Endless-Night
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
